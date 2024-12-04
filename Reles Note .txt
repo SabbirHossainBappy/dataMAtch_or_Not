@@ -1,0 +1,11 @@
+মিল এবং অমিল লাইন বের করা:
+similar_data: দুটো ফাইলের মধ্যে যেসব লাইন মিলছে।
+not_main_match: main_data.txt এর যেসব লাইন file2.txt এর সাথে মিলছে না।
+not_file2_match: file2.txt এর যেসব লাইন main_data.txt এর সাথে মিলছে না।
+
+
+ফলাফল আউটপুট ফাইলে লেখা:
+similar_main_data.txt: main_data.txt এর মিল লাইন।
+not_main_match.txt: main_data.txt এর অমিল লাইন।
+similar_file2_data.txt: file2.txt এর মিল লাইন।
+not_file2_match.txt: file2.txt এর অমিল লাইন।
